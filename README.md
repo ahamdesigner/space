@@ -1,9 +1,7 @@
-# space
-space template for electronic space
-# What is it
-Template design for espace work anywere
-# why it is used
-To maintain the design separate from code
-# Benefits 
-easy code management
+# काल
+वैद्युतकशास्त्र काल
+# उपयोग
+कार्य कुत्रचित्
+# हित 
+समय रचना
 
